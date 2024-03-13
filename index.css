@@ -1203,8 +1203,11 @@ section {
   margin-top: -48%;
 } */
 
-.flex-containerAge {
+.Age{
   margin-top: 10%;
+}
+
+.flex-containerAge {
   display: flex;
   justify-content: space-between;
   padding: 4px;
@@ -1233,7 +1236,7 @@ section {
 }
 
 .content p {
-  font-size: 14px; 
+  font-size: 22px; 
 }
 
 .button-container {
@@ -1303,6 +1306,12 @@ section {
   margin-top: 2px;
   font-size: 16px;
 }
+
+.whyThisclass{
+  margin-top: -15%;
+}
+
+
 .home-content-4-container {
   width: 85%;
   margin: auto;

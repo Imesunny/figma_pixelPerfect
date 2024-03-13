@@ -1057,3 +1057,25 @@
   padding: 0 var(--padding-xl) 0 0;
   gap: 47px 0;
 }
+.value-transformer {
+  width: 1603px;
+  flex-direction: row;
+  padding: 0 0 394px var(--padding-xl);
+  text-align: center;
+  font-size: var(--font-size-41xl);
+  color: var(--color-gray-100);
+  font-family: var(--font-mirador);
+}
+.blog-1-icon {
+  width: 100%;
+  height: 660px;
+  position: absolute;
+  margin: 0 !important;
+  top: 3753px;
+  right: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}

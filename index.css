@@ -1079,3 +1079,199 @@
   flex-shrink: 0;
   object-fit: cover;
 }
+.mask-group-icon8 {
+  height: 115px;
+  width: 118px;
+  position: relative;
+  object-fit: cover;
+  z-index: 1;
+}
+.divine-into-our {
+  margin: 0;
+  height: 60px;
+  width: 482px;
+  position: relative;
+  font-size: inherit;
+  font-weight: 700;
+  font-family: inherit;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 1;
+}
+.function-node {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.virtual-tour {
+  margin: 0;
+  height: 60px;
+  position: relative;
+  font-size: inherit;
+  font-weight: 700;
+  font-family: inherit;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  max-width: 100%;
+  z-index: 2;
+}
+.root-node {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.b-s-t-deletion-node {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 var(--padding-lgi);
+  font-size: var(--font-size-mini);
+  font-family: var(--font-tt-chocolates-trl);
+}
+.group-div,
+.root-node {
+  flex-direction: column;
+}
+.group-div {
+  align-self: stretch;
+  height: 246px;
+  border-radius: var(--br-7xs);
+  background-color: var(--color-firebrick);
+  box-shadow: 0 4px 26.6px rgba(0, 0, 0, 0.4);
+  padding: var(--padding-14xl) 0 var(--padding-23xl);
+  box-sizing: border-box;
+  gap: var(--gap-xs-5);
+  z-index: 1;
+}
+.root-node {
+  height: 286px;
+  width: 248px;
+}
+.div,
+.frame-child3,
+.in-uttarakhand {
+  align-self: stretch;
+  position: relative;
+}
+.frame-child3 {
+  height: 246px;
+  border-radius: var(--br-7xs);
+  background-color: var(--color-firebrick);
+  display: none;
+}
+.div,
+.in-uttarakhand {
+  height: 54px;
+  letter-spacing: 0.02em;
+  display: inline-block;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.in-uttarakhand {
+  height: 40px;
+  font-size: var(--font-size-6xl);
+  font-weight: 900;
+  font-family: var(--font-mirador);
+}
+.co-educational-boarding-school1 {
+  flex: 1;
+  position: relative;
+  letter-spacing: 0.02em;
+  z-index: 1;
+}
+.co-educational-boarding-school-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-lgi);
+  font-size: var(--font-size-mini);
+  font-family: var(--font-tt-chocolates-trl);
+}
+.rectangle-parent1,
+.root-node1 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.rectangle-parent1 {
+  align-self: stretch;
+  border-radius: var(--br-7xs);
+  background-color: var(--color-firebrick);
+  box-shadow: 0 4px 26.6px rgba(0, 0, 0, 0.4);
+  padding: var(--padding-14xl) 0 var(--padding-23xl);
+  gap: var(--gap-xs-5);
+  z-index: 1;
+}
+.root-node1 {
+  height: 286px;
+  width: 248px;
+}
+.frame-child4 {
+  align-self: stretch;
+  height: 246px;
+  position: relative;
+  border-radius: var(--br-7xs);
+  background-color: var(--color-firebrick);
+  display: none;
+}
+.div1 {
+  align-self: stretch;
+  flex: 1;
+}
+.co-educational-boarding-school2,
+.div1,
+.in-india {
+  position: relative;
+  letter-spacing: 0.02em;
+  z-index: 1;
+}
+.in-india {
+  align-self: stretch;
+  height: 40px;
+  font-size: var(--font-size-6xl);
+  display: inline-block;
+  font-weight: 900;
+  font-family: var(--font-mirador);
+  flex-shrink: 0;
+}
+.co-educational-boarding-school2 {
+  flex: 1;
+}
+.co-educational-boarding-school-container {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-lgi);
+  font-size: var(--font-size-mini);
+  font-family: var(--font-tt-chocolates-trl);
+}
+.rectangle-parent2,
+.root-node2 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.rectangle-parent2 {
+  align-self: stretch;
+  height: 246px;
+  border-radius: var(--br-7xs);
+  background-color: var(--color-firebrick);
+  box-shadow: 0 4px 26.6px rgba(0, 0, 0, 0.4);
+  padding: var(--padding-14xl) 0 var(--padding-23xl);
+  box-sizing: border-box;
+  gap: var(--gap-xs-5);
+  z-index: 1;
+}
+.root-node2 {
+  height: 286px;
+  width: 248px;
+}
